@@ -17,3 +17,4 @@ download-manager1.portmap.host
 homeplexserver.anondns.net
 safevpnconnection.anondns.net
 dbest2021.ddns.net
+watchsports.sbs
