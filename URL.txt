@@ -18,3 +18,4 @@ homeplexserver.anondns.net
 safevpnconnection.anondns.net
 dbest2021.ddns.net
 watchsports.sbs
+ferlik.shop
