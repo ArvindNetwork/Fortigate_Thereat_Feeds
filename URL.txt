@@ -139,3 +139,5 @@ login-yahoo.privacy-ar.com
 signin-live.privacy-ar.com
 signin-ap.privacy-ar.com
 signin-account.review-ar.co
+cobsvnstructionmidstream.vu
+journeys.easysend.app
