@@ -141,3 +141,4 @@ signin-ap.privacy-ar.com
 signin-account.review-ar.co
 cobsvnstructionmidstream.vu
 journeys.easysend.app
+fingerprint-verification.info
