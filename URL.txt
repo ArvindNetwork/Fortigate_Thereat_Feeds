@@ -142,3 +142,7 @@ signin-account.review-ar.co
 cobsvnstructionmidstream.vu
 journeys.easysend.app
 fingerprint-verification.info
+cloudflare-check.net
+norediam.com
+fingerprint-verification.info
+clickzona.net
