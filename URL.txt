@@ -146,3 +146,4 @@ cloudflare-check.net
 norediam.com
 fingerprint-verification.info
 clickzona.net
+live05.miekgo.app
